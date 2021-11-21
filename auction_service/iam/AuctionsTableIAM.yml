@@ -1,0 +1,5 @@
+AuctionsTableIAM:
+  Effect: Allow
+  Action:
+    - dynamoDb:PutItem
+  Resource: '*'

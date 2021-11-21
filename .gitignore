@@ -1,0 +1,9 @@
+auction_service/node_modules
+
+auction_service/jspm_packages
+
+# Serverless directories
+auction_service/.serverless
+
+# Webpack directories
+auction_service/.webpack
